@@ -1,0 +1,5 @@
+package model;
+
+enum Genre{
+	DESCONOCIDO, ROCK, HIP_HOP, MUSICA_CLASICA, REGGAE, SALSA, METAL;
+}
